@@ -66,6 +66,8 @@ Are the tables, figures, and occasionaly other tools rendered by the primary ana
 
 ## ANALYSIS REPOSITORY
 
+A private remote repository
+
 ## SECURE STORAGE
 
 ## DATA PIPELINE
