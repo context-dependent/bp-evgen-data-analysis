@@ -8,4 +8,4 @@ This repository has been created with the optimistic intent of ultimately answer
 - How do we codify lessons learned to build collective intelligence? 
 - How do we use collective intelligence to increase efficiency and quality? 
 
-Out of chaos and confusion, the team working on this hopes to build some of the key foundations. 
+Out of chaos and confusion, the team working on this hopes to build some of the key foundations of answers to these questions. 
