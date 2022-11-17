@@ -3,7 +3,9 @@ title: "Meeting Minutes"
 format: gfm
 ---
 
-## 2022-11-11: Working Meeting 3
+## Working Meeting 3
+
+[2022-11-13](.aside)
 
 Working Meeting 3
 
@@ -107,3 +109,39 @@ function calc_pre_post_key_metrics(W, M, V, E)
   + Max wants to get the Coalition of the Willing together on this
   + We need definitions, and a product
   + Who and where to test
+
+## Working Meeting 4: Governance and Planning
+
+::: {.column-margin}
+Date: 2022-11-17
+Chair: Max
+Scribe: Thomas
+Other: Vibha, Tanya
+:::
+
+Max booked this meeting to run through the conversation between the two of us last week in view of Tanya and Vibha, and then to outline the governance and direction of next steps.
+
+### Content
+
+- Overview of the skeleton
+- Everyone is down with the concept, or at least the intention
+- MP: Say TM and I keep pushing toward an MVP, what do we want in terms of people and things?
+  + Who makes sense?
+    * VM: Sandra, all agreed!
+    * TS: Should keep the group small, "bounded". Maybe anyone at a relatively senior level that has some oversight function for data analysis. Engagement leads should have input at some point.
+
+::: {.callout-note}
+## Teams
+| **Role**            | Team               |
+|--------------------:|:-------------------|
+| *Development Leads* | Thomas, Max, Vibha |
+| *Steering*          | Vibha, Tanya, Sandra, Thomas, Max |
+| *Input*             | Engagement Leads |
+:::
+
+- Overall roadmap:
+  + MP + TM design high-level product touchstone
+  + Steering meets to design and assign projects
+- Start small and slowly, incremental progress needed
+- VM: Just remembered, maybe Data Solutions should be involved, Sandra has flagged issues
+- Involve DS later in the process
