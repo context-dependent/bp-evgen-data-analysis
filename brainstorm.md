@@ -1,0 +1,55 @@
+Brainstorm
+================
+
+This document is an accumulator for notes that have nowhere else to go.
+Partially finished thoughts, flashes of inspiration, etc.
+
+# Ideas
+
+[`2022-11-17`](.aside)
+
+## Participant Pathways
+
+- A participant pathway is a chain of events that a participant
+  experiences.
+- It begins at the start of their involvement with the program, and ends
+  at the conclusion of the follow-up period.
+- Each pathway is made up of Milestones, events that we care about,
+  which have some decisive affect on the course of a given participant’s
+  pathway.
+- Care should be taken at the outset of an evaluation project to clearly
+  and specifically define the universe of pathways we want to
+  investigate.
+
+### An example
+
+Consider a hypothetical program called FairWeather, which offers an
+on-ramp to a career in the green energy manufacuring industry to NEET
+youth under 30 in three stages. FairWeather is delivered by a non-profit
+service provider called CanWork. CanWork maintains relationships with
+industry professionals in various roles who have volunteered to work
+with participants in the Job Shadowing aspects of the program.
+
+Each of the volunteers has one of the following roles:
+
+- Millwright
+- Assembly line worker
+- Industrial designer
+- Manager
+
+1.  Career Exploration: In the first – and only mandatory – stage of the
+    FairWeather program, participants spend three weeks in a classroom
+    setting learning about themselves, the green energy manufacturing
+    labour market, and the opportunities that may be a good fit for
+    them.
+2.  Job Shadowing: In the second phase, participants select the two
+    roles (from the four volunteer role categories) in which they have
+    the most interest as potential careers. For each of their
+    selections, they are assigned a volunteer with that role, whom they
+    spend two weeks shadowing.
+3.  Coaching and Mentoring: Following the job shadowing stage,
+    participants are given the opportunity to discuss their experience
+    with a career coach, with whom they collaboratively develop a plan
+    to establish the participant in their career of interest. The
+    participant’s progress on that plan is monitored by the Coach, who
+    remains in contact and available to the participant.
