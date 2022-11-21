@@ -52,30 +52,31 @@ Working Meeting 3
     - Analysis plan should be one thing, that reflects both current and
       historical understandings of the approach
 
+
 ``` mermaid
 graph LR
-  A[AP0 Pre-contract] --&gt; B[API Pre-data]
-  B --&gt; |per reporting cycle| C[APII Post-data]
-  C --&gt; Y(Exploration Log...? Analysis Report?)
-  Y --&gt; X[APIII Outputs]
-  B --&gt; D[Data collection scheme]
-  B --&gt; J[Objectives and Methods]
-  D --&gt; E[Surveys]
-  D --&gt; F[Non-Survey Instruments]
-  D --&gt; G[Linkage Details]
+  A[AP0 Pre-contract] --> B[API Pre-data]
+  B --> |per reporting cycle| C[APII Post-data]
+  C --> Y(Exploration Log...? Analysis Report?)
+  Y --> X[APIII Outputs]
+  B --> D[Data collection scheme]
+  B --> J[Objectives and Methods]
+  D --> E[Surveys]
+  D --> F[Non-Survey Instruments]
+  D --> G[Linkage Details]
   D -.- H(Toy Datasets)
   H -.- I(Example Functions)
-  H --&gt; J
-  J --&gt; D
-  K(Org Standards) --&gt; L(Linkage hygeine)
-  K --&gt; M(Scale validation)
-  K --&gt; N(Sample Size)
-  C --&gt; O(Explore)
-  O --&gt; P(Discuss)
-  P --&gt; Q(Reconcile)
-  Q --&gt; R(Ideate)
-  R --&gt; S(Revise APII)
-  S --&gt; O
+  H --> J
+  J --> D
+  K(Org Standards) --> L(Linkage hygeine)
+  K --> M(Scale validation)
+  K --> N(Sample Size)
+  C --> O(Explore)
+  O --> P(Discuss)
+  P --> Q(Reconcile)
+  Q --> R(Ideate)
+  R --> S(Revise APII)
+  S --> O
 ```
 
 - What’s an example example function?
