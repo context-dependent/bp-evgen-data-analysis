@@ -52,7 +52,6 @@ Working Meeting 3
     - Analysis plan should be one thing, that reflects both current and
       historical understandings of the approach
 
-
 ``` mermaid
 graph LR
   A[AP0 Pre-contract] --> B[API Pre-data]
