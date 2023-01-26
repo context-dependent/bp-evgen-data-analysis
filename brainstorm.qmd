@@ -7,7 +7,7 @@ This document is an accumulator for notes that have nowhere else to go. Partiall
 
 # Ideas
 
-[`2022-11-17`](.aside)
+[`2022-11-17`]{.aside}
 
 ## Participant Pathways
 
@@ -16,7 +16,7 @@ This document is an accumulator for notes that have nowhere else to go. Partiall
 - Each pathway is made up of Milestones, events that we care about, which have some decisive affect on the course of a given participant's pathway.
 - Care should be taken at the outset of an evaluation project to clearly and specifically define the universe of pathways we want to investigate.
 
-### An example
+## FairWeather: A Hypothetical Case Study
 
 Consider a hypothetical program called FairWeather, which offers an on-ramp to a career in the green energy manufacuring industry to NEET youth under 30 in three stages.
 FairWeather is delivered by a non-profit service provider called CanWork.
@@ -35,3 +35,29 @@ For each of their selections, they are assigned a volunteer with that role, whom
 3. Coaching and Mentoring: Following the job shadowing stage, participants are given the opportunity to discuss their experience with a career coach, with whom they collaboratively develop a plan to establish the participant in their career of interest.
 The participant's progress on that plan is monitored by the Coach, who remains in contact and available to the participant.
 
+FairWeather is funded by Nova Onbertoba Works!, which administers the LMDA in Nova Onbertoba, a completely made up province in Canada. Assume Nova Onbertoba Works! (NOW) functions roughly equivalently to Employment Ontario (EO). NOW's funding is contingent on enrollment, which CanWork expects to range between 350 and 500 over the projected two year lifespan of the pilot.
+
+### How do Participants enroll in FairWeather?
+
+Participants can independently enroll in FairWeather, either in-person at one of CanWork's brick-and-mortar locations, or online through CanWork's participant portal. Enrollment can also be initiated by a referral from the participant's social assistance caseworker, or a counsellor at one of CanWork's referral partners.
+
+### What is CanWork trying to do?
+
+For FairWeather, NOW has imposed targets for post-treatment outcomes, and for the representation of key demographic groups within the participant population.
+
+#### Process Targets
+
+- 400 participants enrolled
+- 80% graduation rate
+- 90% satisfaction rate among graduates
+
+#### Outcome Targets
+
+- 200 FairWeather graduates either in relevant formal training or employed in the target industry
+- 50% of remaining FairWeather graduates either employed or in formal training
+
+## Test-Driven Development
+
+Is standard practice in other areas of software engineering.
+Adopting a test-driven development paradigm for our analysis projects would represent a shift to taking seriously the idea that we're building software for analysis.
+Starting with tests forces reasoning explicitly and clearly about expectations.
