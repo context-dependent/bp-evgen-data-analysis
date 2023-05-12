@@ -164,3 +164,188 @@ governance and direction of next steps.
 - VM: Just remembered, maybe Data Solutions should be involved, Sandra
   has flagged issues
 - Involve DS later in the process
+
+## Working Meeting 5: A Hypothetical
+
+- Thomas, Max
+- Build a hypothetical program, around which we can develop a platonic
+  dataset / workflow
+- Extend the description of FairWeather
+
+### Burning Questions?
+
+- What kinds of situations do we want the passenger to be confronted
+  with?
+  - Start with a list and then ask people
+  - List all in the output, and rationalize their treatment.
+- Is it an evaluation?
+  - Yeah, for now!
+
+### Situations
+
+- Research questions as stated are not answerable in the data
+  - sometimes there is an ill-defined question
+  - sometimes there is a well-defined question that cannot be answered
+- Lack of clarity wrt about whom the analysis cares
+- Missing data
+- Joint Pain
+  - Longitudinal chaos
+  - Cross-sectional linkage issues
+- Sample size and representativeness\*
+- Tech heck (API struggles)
+- Client conflict!!(how to explain)
+
+### Sample size
+
+- What are we representing?
+  1.  for our typical audience, representativeness starts with
+      representing the program participants
+
+  - When we have high missingness, what does a result *mean* about the
+    program participants.
+    - there’s sampling error
+    - There’s nonsampling error as well, driven by nonresponse bias
+  - Guidance on how to treat it, how to talk about it. How to defuse the
+    incorrect assumptions your readers might have.
+
+  2.  also leans into representing the general population of people who
+      might take the program were it scaled up.
+
+  - Coming up with a stock blurb that says “these results aren’t
+    representative of the broader population”
+  - The question is “Should we be doing this in the future?”
+    - If you’re running a pilot with 30 people what do you expect? - Max
+      Palamar
+    - If you’ve got 200 people, ok, now we’re talking
+  - Benchmarks?
+
+### What does the simplest viable example program have?
+
+- A really textbook EAS / EO program
+- You can come up with a dumb question
+- Tiers of services to introduce complexity
+- Some admin data that doesn’t correspond exactly to survey data
+- Several surveys, some of which have low response rates
+- Several questions on individual surveys with low response rates.
+
+### What does the program look like?
+
+- Intake
+- Resume help
+- Streaming
+  - Supportive / longer term JMPI+ (Manitoba worksish?)
+  - JMPI
+  - No JMPI
+
+### What datasets do we have?
+
+- CAMSish
+- Baseline, Exit, Follow-up
+- Service provider jank (a word document, or a junky excel sheet, or a
+  series of pdf forms)
+  - microdata is the most frequent, mirrors supplementary ‘needs
+    assessment’-style data collection
+- Some cost figures or w/e
+
+### Name ideas
+
+- Furious Max’s The Jobagon
+- Job Predator
+- Jobinator
+- The Book of Jobs
+
+### Research Questions
+
+- Who does this program reach? (could be bad or good, depending on the
+  defn’ of target pop)
+- Satisfaction?
+- Employment outcomes?
+- Confidence, happiness, soft skills? (something quanty, but one
+  plausible and one unlikely)
+- Does JMPI+ produce sustainable employment outcomes?
+- Does JMPI+ do better?
+- Is JMPI+ worth it?
+- Inter-group differences? (this could be bad, and like… get good?)
+
+### Client Context
+
+- Piloting JMPI+, a new service offering
+- Funder has mandated evaluation
+- They’ve subcontracted us to be the evaluator
+- The Jobagon has a mandate to serve unemployed people in general
+- JMPI+ is aimed specifically at people on social assistance, per funder
+  targets
+- The Jobagon serves 2000 people per year
+
+### Targets
+
+- 300 participants (permits much, forbids some) in JMPI+
+  - 240 of whom are on social assistance
+  - 150 of whom belong to one or more hdes groups
+- 90% CAMs-style satisfaction
+- 80% Placement rate
+- 70% Employment rate at follow-up
+
+### Miscellany
+
+- Baseline survey collected before enrollment into JMPI+, but Exit and
+  Follow-up are only administered to JMPI+ers
+
+### Where are we at
+
+- The scene is set
+- Time to make the datasets
+
+## Working Meeting 6: Overall Process revisit
+
+- Where are we starting?
+  - More work needed to get to MVP on overall process
+
+### Refined Stages
+
+**Bolded** items are clear hooks for tools, rules, standards.
+
+`AP[X]` is the Xth analysis planning stage `R[X]` is the Xth artefact of
+the analysis process
+
+1.  Pre-contract
+
+- Proposal
+- Research objectives
+- `AP0`: **Preliminary plan**
+  - `R0`: **High-level methodology**
+
+2.  Data design
+
+- Survey designs
+- Admin datasets
+- `AP1`: **Specify approach**
+  - `R1`: **Detailed methodology**
+  - `R2`: **Input data dictionary**
+
+3.  Data collection
+
+- Monitoring:
+  - `R3`: **Monitoring log**
+
+4.  Analyze
+
+- Have the data for the analysis
+- Have accumulated insights
+- Have monitoring logs
+- Explore loop:
+  - `R4`: **Exploratory output pile**
+  - `R5`: **Decision log**
+- `AP2`: revisit `R1`: **Detailed methodology**
+  - Realign analysis objectives with project objectives
+  - Assess feasibility through exploration
+  - Identify limitations and enumerate implications
+  - Justify methodological adapatations
+  - Iteratively build `R6`: **data pipeline**
+  - Document final data pipeline
+  - Finalize methodology
+
+5.  Publish
+
+- `AP3`: **Schedule of deliverable outputs**
+  - `R7`: **Analysis outputs**
