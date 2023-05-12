@@ -260,3 +260,48 @@ Max booked this meeting to run through the conversation between the two of us la
 
 - The scene is set
 - Time to make the datasets
+
+## Working Meeting 6: Overall Process revisit
+
+- Where are we starting? 
+  + More work needed to get to MVP on overall process
+
+### Refined Stages
+
+**Bolded** items are clear hooks for tools, rules, standards. 
+
+`AP[X]` is the Xth analysis planning stage
+`R[X]` is the Xth artefact of the analysis process
+
+1. Pre-contract
+  + Proposal
+  + Research objectives
+  + `AP0` **High-level methodology**
+2. Data design
+  + Survey designs
+  + Admin datasets
+  + `AP1`: **Specify approach**
+    - `R1`: **Detailed methodology**
+    - `R2`: **Input data dictionary**
+3. Data collection
+  + Monitoring: 
+    - `R3`: **Monitoring log**
+4. Analyze
+  + Have the data for the analysis
+  + Have accumulated insights 
+  + Have monitoring logs
+  + Explore loop: 
+    - `R4`: **Exploratory output pile** 
+    - `R5`: **Decision log**
+  + `AP2`: revisit `R1`: **Detailed methodology**
+    - Realign analysis objectives with project objectives
+    - Assess feasibility through exploration
+    - Identify limitations and enumerate implications
+    - Justify methodological adapatations
+    - Iteratively build `R6`: **data pipeline**
+    - Document final data pipeline
+    - Finalize methodology
+5. Publish
+  + `AP3`: **Schedule of deliverable outputs**
+    - `R7`: **Analysis outputs**
+
