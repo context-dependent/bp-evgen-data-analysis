@@ -276,7 +276,8 @@ Max booked this meeting to run through the conversation between the two of us la
 1. Pre-contract
   + Proposal
   + Research objectives
-  + `AP0` **High-level methodology**
+  + `AP0`: **Preliminary plan**
+    - `R0`: **High-level methodology**
 2. Data design
   + Survey designs
   + Admin datasets

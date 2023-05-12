@@ -312,7 +312,8 @@ the analysis process
 
 - Proposal
 - Research objectives
-- `AP0` **High-level methodology**
+- `AP0`: **Preliminary plan**
+  - `R0`: **High-level methodology**
 
 2.  Data design
 
